@@ -2,14 +2,14 @@
 
 name changed: test20190730 -> tZone--test20190730
 
-    ./tZone--test20190730/
+    ./tZone--test20190730
      ├──  README.md
      ├──  README.md.old
      ├──  sample.txt
      ├──  sample2.txt
      └──  sample3.txt
      
-     0 directories, 5 files (Thu Aug 18 12:26:09 JST 2022)
+     0 directories, 5 files (Sun Aug 28 21:29:44 JST 2022)
 
 
 name changed: test20190730 -> tZone--test20190730
